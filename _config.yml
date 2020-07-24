@@ -7,16 +7,16 @@ title: Concept Labz
 description: Re-designing your Concepts
 
 # Your name to show in the footer
-author: Leadr: Anish Chowdhury | Member: Samrth G
+author: Leader: Anish Chowdhury | Member: Samrth G
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Us: "We are the students of KLS Gogte Institute of Technology taken part in Website Designing Competition 2020 by IEEE"
+  LinkedIn Profiles:
+    - Author Anish Chowdhury: "www.linkedin.com/in/anishchowdhury"
+    - Samarth G: "linkedin.com/in/samarth-g-a753b81b0"
+  Author's Startup: "https://www.storescape.store/"
 
 # --- Logo --- #
 
@@ -38,10 +38,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "storescape.official@gmail.com"
+  facebook: "https://www.facebook.com/anish.chowdhury.777"
+  github: "https://github.com/Concept-Labz"
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -72,7 +71,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: ".."
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
